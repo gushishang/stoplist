@@ -18,6 +18,7 @@
 
 ## 如何轻量级pull request
 **需要有一个github账号**
+
 1，点击仓库主页中右部...
 
 2，点击 upload files
